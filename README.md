@@ -1,20 +1,9 @@
-# Production Boilerplate for Startups
+# Production MVP Boilerplate
 
 ## 👉 [See documentation to get started](https://resources.devtodollars.com/docs) 👈
 - [Flutter Demo](https://flutter.devtodollars.com)
 - [NextJS Demo](https://nextjs.devtodollars.com)
 - Building a startup? [Join the tech founder community](https://discord.gg/6q63Xa6SEB)
-## Additional Support
-Support me by purchasing premium support from yours truly :)
-
-
-| Code + Docs (**$0**)                                             | Premium Support (**$49**)                                                                 | I'll Build Your MVP (**$5000~**)                                         |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ✓ Code                                                           | ✓ 30 Min Setup Call                                                                       | ✓ Completed MVP                                                          |
-| ✓ Documentation                                                  | ✓ Premium Discord Support                                                                 | ✓ Technical Co-founder                                                   |
-| ✓ Discord Community                                              | ✓ Weekly Office Hours                                                                     |                                                                          |
-| ✓ Life-time Updates                                              | ✓ Support Matt                                                                            |                                                                          |
-| [View Code](https://github.com/devtodollars/startup-boilerplate) | [Buy Now](https://flutter.devtodollars.com/payments?price=price_1P3MEnFttF99a1NCjNcCLLvA) | [Book a Call](https://usemotion.com/meet/ithinkwong/mvp-consulting?d=30) |
 
 ## What's Included:
 
@@ -42,7 +31,7 @@ Support me by purchasing premium support from yours truly :)
   - SSO (Google, Github, etc.)
 - Fully configured for local development from day one
 - 🚧 [backend tests](https://github.com/devtodollars/flutter-supabase-production-template/issues/16) 🚧
-
+- Test
 ### Analytics ([Posthog](https://posthog.com/))
 
 - Unified analytics across frontend and backend based on `user_id`
@@ -75,8 +64,6 @@ Support me by purchasing premium support from yours truly :)
 - Send transactional emails
 - DNS setup to avoid spam folder (DKIM, DMARC, SPF in subdomain)
 - Simplify email updates by using postmark templates
-
-### 🚧 [Blog / Docs](https://github.com/devtodollars/startup-boilerplate/issues/56) ([Nextra](https://nextra.site/)) 🚧
 
 ### 🚧 [Error Monitoring](https://github.com/devtodollars/flutter-supabase-production-template/issues/18) ([Sentry](https://sentry.io/welcome/)) 🚧
 
